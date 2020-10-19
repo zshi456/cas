@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "eslint-loader": "^1.9.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-sass": "^3.1.0"
   },
